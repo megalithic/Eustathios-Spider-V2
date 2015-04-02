@@ -1,6 +1,7 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**
 
 - [INTRODUCTION](#introduction)
+  - [Must-read Links](#mustreadlinks)
 - [TOOLS](#tools)
 - [PARTS RUNDOWN](#partsrundown)
 
@@ -12,19 +13,21 @@ There is a deeper history to this variant, that I won't go into here, but I
 highly recommend visiting our [Ingentis, HercuLien and Eustathios Builders Google+ Community](https://plus.google.com/u/0/communities/108524206628971601859), fully dedicated to the plethora
 of the Eustathios and other variants.
 
-Alright, onto some other relevant and necessary links..
+<a name="mustreadlinks"/>
+### Must-read links
 
 * [Eric Lien's Eustathios V2 GitHub repo](https://github.com/eclsnowman/Eustathios-Spider-V2)
-* [Bill of Materials (BOM)](https://docs.google.com/spreadsheets/d/1ATz5AoIUtASowBtlXsOb8FVt8YLd0A-wu1EWHHHPDnA) as a Google Sheets document
+* [Bill of Materials (BOM)](https://docs.google.com/spreadsheets/d/1ATz5AoIUtASowBtlXsOb8FVt8YLd0A-wu1EWHHHPDnA) as a Google Sheets document (maintained by Eric and I)
 
 <a name="tools"/>
 ## TOOLS
 
 Seeing as how this is a 3D printer design based upon an Ultimaker-style gantry
-system, we'll be using a lot of aluminum extrusion pieces, so a drill press and
-miter saw may be necessary in the event you don't buy extrusions pre-cut and pre-drilled
-(that hopefully shouldn't be necessary, as the BOM referenced above includes the
- part numbers for pre-cut and pre-drilled extrusions).
+system, we'll be using a lot of aluminum extrusion pieces, so a drill or drill
+press and miter saw  or hand saw for aluminum may be necessary in the event you
+don't buy extrusions pre-cut and pre-drilled (that hopefully shouldn't be
+necessary, as the BOM referenced above includes the part numbers for pre-cut
+and pre-drilled extrusions).
 
 Other tools you'll want to have on hand:
 
@@ -32,10 +35,8 @@ Other tools you'll want to have on hand:
 * 3mm Hex Wrench
 * Bubble Level (for leveling the Z Gantry)
 * Multimeter
-* Saw for cutting aluminum
 * Marker
 * Masking tape
-* Metric tap set (only a 5mm tap is required)
 * Drill
 * 1mm drill bit or equivalent imperial standard bit (This is just used for drilling pilot holes so it doesn't have to be precise but needs to be small enough to fit in the drill guide)
 * 5mm drill bit
