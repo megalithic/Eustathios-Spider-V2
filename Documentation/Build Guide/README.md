@@ -14,10 +14,11 @@ highly recommend visiting our [Ingentis, HercuLien and Eustathios Builders Googl
 of the Eustathios and other variants.
 
 <a name="mustreadlinks"/>
-### Must-read links
+### Must-read Links
 
 * [Eric Lien's Eustathios V2 GitHub repo](https://github.com/eclsnowman/Eustathios-Spider-V2)
 * [Bill of Materials (BOM)](https://docs.google.com/spreadsheets/d/1ATz5AoIUtASowBtlXsOb8FVt8YLd0A-wu1EWHHHPDnA) as a Google Sheets document (maintained by Eric and I)
+* [Smoothieboard Firmware (for V1, for now)](https://github.com/eclsnowman/Eustathios-Spider-V2/tree/master/Smoothieware/Eustathios%20V1%20Config%20File)
 
 <a name="tools"/>
 ## TOOLS
